@@ -24,7 +24,7 @@ https://www.gog.com/game/rage_of_mages
 4. В папке игры переименовать ddraw.dll to ddraw.dll.baсkup.
 5. Запускать игру оригинальным ярлыком при запущенном DxWnd!
 
-![DxWnd](DxWnd.png)
+![Сайт утилиты](DxWnd.png)
 
 [Оригинал](https://sourceforge.net/projects/dxwnd/)
 
