@@ -21,3 +21,5 @@ https://sourceforge.net/projects/dxwnd/
 3. Изменить настройки (Rclick -> Modify); см. скриншот.
 4. В папке игры переименовать ddraw.dll to ddraw.dll.baсkгз.
 5. Запускать игру GOG ярлыком при запущенном DxWnd.
+
+![DxWnd](DxWnd.png)
