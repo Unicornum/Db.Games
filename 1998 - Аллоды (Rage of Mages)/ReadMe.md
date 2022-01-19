@@ -8,13 +8,15 @@ https://www.gog.com/game/rage_of_mages
 
 ### Зависание видео
 
-Заменить файл smackw32.dll в папке с установленной игрой на файл из этой папки.
+Заменить файл smackw32.dll в папке с установленной игрой на [этот файл](https://github.com/Unicornum/Db.Games/releases/download/Allods/smackw32.dll).
 
-Проблема возникает не всегда, поэтому делать ее сразу не стоит; также иногда замена приводит к мерцанию видео.
+Проблема возникает не всегда, поэтому замену делать сразу не стоит; также иногда это приводит к мерцанию видео.
 
 ### DxWnd
 
-https://sourceforge.net/projects/dxwnd/
+Скачать проверенную [сборку](https://github.com/Unicornum/Db.Games/releases/download/Allods/DxWnd_v2_05_80.rar)
+
+[Источник](https://sourceforge.net/projects/dxwnd/)
 
 При проблемах с запуском игры через созданный оригинальным инсталлятором ярлык:
 
