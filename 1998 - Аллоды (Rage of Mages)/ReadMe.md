@@ -1,6 +1,8 @@
 :clipboard: 19.01.2022 Win10 x64
 
-## Аллоды: Печать тайны :star: :star: :star: :star: :star:
+## Аллоды: Печать тайны 
+
+:star: :star: :star: :star: :star:
 
 ### Игра
 
