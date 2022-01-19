@@ -1,4 +1,6 @@
-19.01.2022 Win10 x64
+:clipboard: 19.01.2022 Win10 x64
+
+## Аллоды: Печать тайны
 
 ### Игра
 
@@ -19,7 +21,7 @@ https://sourceforge.net/projects/dxwnd/
 1. Скачать DxWnd и распаковать в любое место.
 2. Запустить DxWnd, в окне выбрать File -> Import -> папка DxWnd -> exports -> Rage of Mages.
 3. Изменить настройки (Rclick -> Modify); см. скриншот.
-4. В папке игры переименовать ddraw.dll to ddraw.dll.baсkгз.
+4. В папке игры переименовать ddraw.dll to ddraw.dll.baсkup.
 5. Запускать игру GOG ярлыком при запущенном DxWnd.
 
 ![DxWnd](DxWnd.png)
