@@ -21,7 +21,7 @@ https://www.gog.com/game/rage_of_mages
 1. Скачать [DxWnd](https://github.com/Unicornum/Db.Games/releases/download/Allods/DxWnd_v2_05_80.rar) и распаковать в любое место.
 2. Запустить DxWnd, в окне выбрать File -> Import -> папка DxWnd -> exports -> Rage of Mages.
 3. Изменить настройки (RClick -> Modify); см. скриншот.
-4. В папке игры переименовать ddraw.dll to ddraw.dll.baсkup.
+4. В папке игры переименовать ddraw.dll в ddraw.dll.baсkup.
 5. Запускать игру **оригинальным ярлыком** при запущенном DxWnd!
 
 ![DxWnd](DxWnd.png)
