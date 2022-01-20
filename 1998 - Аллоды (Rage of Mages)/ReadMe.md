@@ -19,7 +19,7 @@ https://www.gog.com/game/rage_of_mages
 2. Скачать [файл Allods.dxw](https://github.com/Unicornum/Db.Games/releases/download/Allods/Allods.dxw) в папку с игрой.
 3. Запустить DxWnd, в окне выбрать File -> Import -> папка игры -> Allods.dxw.
 
->> Исходный файл: <папка DxWnd>/exports/Rage of Mages - Allods.dxw.
+    - Исходный файл: <папка DxWnd>/exports/Rage of Mages - Allods.dxw.
 
 4. В настройках (RClick -> Modify) указать путь к исполняемому файлу игры; см. скриншот.
 5. В папке игры переименовать ddraw.dll в ddraw.dll.baсkup.
