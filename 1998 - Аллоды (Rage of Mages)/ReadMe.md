@@ -14,7 +14,7 @@ https://www.gog.com/game/rage_of_mages
 
 1. Скачать [DxWnd](https://github.com/Unicornum/Db.Games/releases/download/Allods/DxWnd_v2_05_80.rar) и распаковать архив в любое место.
 
->> [Сайт утилиты](https://sourceforge.net/projects/dxwnd/)
+    - [Сайт утилиты](https://sourceforge.net/projects/dxwnd/)
 
 2. Скачать [файл Allods.dxw](https://github.com/Unicornum/Db.Games/releases/download/Allods/Allods.dxw) в папку с игрой.
 3. Запустить DxWnd, в окне выбрать File -> Import -> папка игры -> Allods.dxw.
