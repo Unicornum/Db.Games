@@ -8,25 +8,30 @@
 
 https://www.gog.com/game/rage_of_mages
 
-### Зависание видео
-
-Заменить файл smackw32.dll в папке с установленной игрой на [этот файл](https://github.com/Unicornum/Db.Games/releases/download/Allods/smackw32.dll).
-
-> Проблема возникает не всегда, поэтому замену делать сразу не стоит; также иногда это приводит к мерцанию видео.
-
 ### DxWnd
 
 При проблемах с запуском игры через созданный оригинальным инсталлятором ярлык:
 
 1. Скачать [DxWnd](https://github.com/Unicornum/Db.Games/releases/download/Allods/DxWnd_v2_05_80.rar) и распаковать в любое место.
-2. Запустить DxWnd, в окне выбрать File -> Import -> папка DxWnd -> exports -> Rage of Mages - Allods.dxw.
-3. Изменить настройки (RClick -> Modify); см. скриншот.
-4. В папке игры переименовать ddraw.dll в ddraw.dll.baсkup.
-5. Запускать игру **оригинальным ярлыком** при запущенном DxWnd!
 
-[Сайт утилиты](https://sourceforge.net/projects/dxwnd/)
+> [Сайт утилиты](https://sourceforge.net/projects/dxwnd/)
+
+2. Скачать [файл Allods.dxw](https://github.com/Unicornum/Db.Games/releases/download/Allods/Allods.dxw) в папку с игрой.
+3. Запустить DxWnd, в окне выбрать File -> Import -> папка игры -> Allods.dxw.
+
+> Исходный файл: <папка DxWnd>/exports/Rage of Mages - Allods.dxw.
+
+4. В настройках (RClick -> Modify) указать путь к исполняемому файлу игры; см. скриншот.
+5. В папке игры переименовать ddraw.dll в ddraw.dll.baсkup.
+6. Запускать игру **оригинальным ярлыком** при запущенном DxWnd!
 
 ![DxWnd](DxWnd.png)
+
+### Зависание видео
+
+Заменить файл smackw32.dll в папке с установленной игрой на [этот файл](https://github.com/Unicornum/Db.Games/releases/download/Allods/smackw32.dll).
+
+> Проблема возникает не всегда, поэтому замену делать сразу не стоит; также иногда это приводит к мерцанию видео.
 
 ### Хинты
 
