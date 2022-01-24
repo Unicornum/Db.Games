@@ -11,10 +11,12 @@ https://www.gog.com/game/rage_of_mages_ii_necromancer
 ### Патч высокого разрешения
 
 - Скачать [архив](https://github.com/Unicornum/Db.Games/releases/download/Allods/a2_acom_14.zip) и распаковать его в папку с игрой.
-- В свойствах ярлыка добавить нужное разрешение:
+- В свойствах ярлыка заменить исполняемый файл и добавить нужное разрешение:
 
 > "<...>\Rage of Mages II\allods2com14.exe" --res:1920x1080 --single
 
-- В настройках ярлыка отключить масштабирование.
+- Если в свойствах монитора включен увеличенный шрифт, то в настройках ярлыка отключить масштабирование:
+
+![DPI](DPI.png)
 
 [Источник](http://www.wsgf.org/dr/rage-mages-2-necromancer)
