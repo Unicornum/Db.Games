@@ -16,3 +16,5 @@ https://www.gog.com/game/rage_of_mages_ii_necromancer
 > "<...>\Rage of Mages II\allods2com14.exe" --res:1920x1080 --single
 
 - В настройках ярлыка отключить масштабирование.
+
+[Источник](http://www.wsgf.org/dr/rage-mages-2-necromancer)
