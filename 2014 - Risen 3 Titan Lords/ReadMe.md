@@ -19,7 +19,7 @@ https://www.gog.com/ru/game/risen_3_titan_lords
 
 ### Widescreen
 
-Для установки разрешения игры 2560x1080 перед первым запуском:
+Для установки разрешения 2560x1080 перед первым запуском игры:
 
 1. Открыть с помощью [hex редактора](https://github.com/Unicornum/Db.Games/releases/download/Risen/HxD.zip) файл **system\Risen3.exe**.
 2. Найти в нем hex последовательность **39 8E E3 3F** (будет в двух местах) и заменить на **26 B4 17 40**.
