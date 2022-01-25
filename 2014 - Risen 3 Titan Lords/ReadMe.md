@@ -19,13 +19,17 @@ https://www.gog.com/ru/game/risen_3_titan_lords
 
 ### Widescreen
 
-> TODO
+Для установки разрешения игры 2560x1080 перед первым запуском:
+
+1. Открыть с помощью [hex редактора](https://github.com/Unicornum/Db.Games/releases/download/Risen/HxD.zip) файл **system\Risen3.exe**.
+2. Найти в нем hex последовательность **39 8E E3 3F** (будет в двух местах) и заменить на **26 B4 17 40**.
+3. В файле **data/ini/ConfigDefault.xml** в разделе **Aspect16x9** изменить значение параметра "VirtalWidth=2560".
 
 ### Русская озвучка
 
-[Скачать](https://www.gamesvoice.ru/risen3)
-
 > Мод **Risen 3 Remaster** с этой озвучкой работать не будет (и он уже включает адапированную версию), поэтому если планируется его установка, то ставить эту озвучку не нужно.
+
+[Скачать](https://www.gamesvoice.ru/risen3)
 
 ### Risen 3 Remaster
 
