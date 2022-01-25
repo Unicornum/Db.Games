@@ -23,7 +23,9 @@ https://www.gog.com/ru/game/risen_3_titan_lords
 
 ### Русская озвучка
 
-> TODO
+[Скачать](https://www.gamesvoice.ru/risen3)
+
+> Мод **Risen 3 Remaster** с этой озвучкой работать не будет (и он уже включает адапированную версию), поэтому если планируется его установка, то ставить эту озвучку не нужно.
 
 ### Risen 3 Remaster
 
