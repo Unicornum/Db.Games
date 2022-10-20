@@ -48,7 +48,7 @@ vdf=G2MATP.mod  GothicGame.mod
 
 [Скачать](https://github.com/Unicornum/Db.Games/releases/download/Gothic/ReShade_Setup_4.9.1.exe) и установить.
 
-[Использование](Использование.pdf)
+[Использование](ReShade.pdf)
 
 - DisplayDepth показывает наличие карт нормалей и глубины - они необходимы для работы многих шейдеров.
 - Многие эффекты уже предоставлены Render DirectX 11, поэтому следует включать только то, чего нет.
