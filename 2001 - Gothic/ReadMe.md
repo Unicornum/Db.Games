@@ -2,7 +2,7 @@
 
 ## The Chronicles of Myrtana: Archolos
 
-:star: :star: :star: :star:
+:star: :star: :star: :star: :star:
 
 ### Игра
 
