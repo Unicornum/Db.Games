@@ -8,6 +8,8 @@
 
 https://www.gog.com/en/game/the_chronicles_of_myrtana_archolos
 
+> 20.10.2022: В Chrome ссылка не открывается ни при каких условиях, открывать в другом браузере или через список игр.
+
 ### Рендеринг с помощью DirectX11
 
 Скачать [архив](https://github.com/Unicornum/Db.Games/releases/download/Gothic/GD3D11-17.8-dev8.zip), распаковать в папку system игры.
