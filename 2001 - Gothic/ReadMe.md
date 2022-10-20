@@ -12,11 +12,9 @@ https://www.gog.com/game/gothic
 
 [Источник](https://rpgrussia.com/resources/systempack.643/)
 
-> TODO: Добавить файлы и ссылки на них.
-
-1. Установить [Gothic1_playerkit-1.08k](...)
-2. Установить [Gothic1_PlayerKit-2.8](...)
-3. Установить [G1Classic-SystemPack-1.8](...)
+1. Установить [Gothic1_playerkit-1.08k](https://github.com/Unicornum/Db.Games/releases/download/Gothic/1.Gothic1_playerkit-1.08k.exe)
+2. Установить [Gothic1_PlayerKit-2.8](https://github.com/Unicornum/Db.Games/releases/download/Gothic/2.Gothic1_PlayerKit-2.8.exe)
+3. Установить [G1Classic-SystemPack-1.8](https://github.com/Unicornum/Db.Games/releases/download/Gothic/3.G1Classic-SystemPack-1.8.exe)
 
 ### Русификатор
 
@@ -26,33 +24,39 @@ https://www.gog.com/game/gothic
 
 ### Рендеринг с помощью DirectX11
 
-> TODO: Добавить файлы и ссылки на них.
-
-Скачать [архив](...), распаковать в папку system игры.
+Скачать [архив](https://github.com/Unicornum/Db.Games/releases/download/Gothic/GD3D11-17.8-dev8.zip), распаковать в папку system игры.
 
 [Источник](https://github.com/Kirides/GD3D11/releases)
 
 ### Графические моды
 
-> TODO: Добавить файлы и ссылки на них.
-
-- G2MeshesAndTexturesPack - модели и текстуры из Gothic 2.
-- Big Nature Mod — более красивые деревья и значительно больше растительности и других мелких деталей на земле и водоемах.
-- Textures Patch Freddy — обновленные текстуры на манер Gothic 2.
-- Worlds Patch Freddy — исправление ошибок предыдущего мода.
-- Carnage Graphics Patch — улучшенные модели персонажей и некоторых объектов.
-- Gothic_Weapons_Rebuilt.VDF - улучшенные модели оружия.
-- Potions.vdf - модели зелий из второй части.
+- [G2 Meshes And Textures Pack](https://github.com/Unicornum/Db.Games/releases/download/Gothic/1.G2-Meshes-And-Textures-Pack-v0.2b-Setup.exe) - модели и текстуры из Gothic 2.
+- [Big Nature Mod](https://github.com/Unicornum/Db.Games/releases/download/Gothic/2.Big-nature-mod.exe) — более красивые деревья и значительно больше растительности и других мелких деталей на земле и водоемах.
+- [Textures Patch Freddy](https://github.com/Unicornum/Db.Games/releases/download/Gothic/3.Textures_Patch_Freddy-0.8.exe) — обновленные текстуры на манер Gothic 2.
+- [Worlds Patch Freddy](https://github.com/Unicornum/Db.Games/releases/download/Gothic/4.worlds_patch_freddy-1.01.exe) — исправление ошибок предыдущего мода.
+- [Carnage Graphics Patch](https://github.com/Unicornum/Db.Games/releases/download/Gothic/5.Carnage_Graphics_patch.VDF) — улучшенные модели персонажей и некоторых объектов.
+- [Gothic Weapons Rebuilt](https://github.com/Unicornum/Db.Games/releases/download/Gothic/6.Gothic_Weapons_Rebuilt.VDF) - улучшенные модели оружия.
+- [Potions](https://github.com/Unicornum/Db.Games/releases/download/Gothic/7.Potions.vdf) - модели зелий из второй части.
 
 Первые три мода устанавливаются через инсталлятор на немецком — просто нажимайте привычные по расположению клавиши (но проследите, чтобы путь к игре был корректным), файлы .vdf нужно скопировать в папку Gothic\Data.
 
-Для объединения G2MeshesAndTexturesPack и всего остального добавить в файл system/GothicGame.ini (два пробела!)
+Для объединения G2MeshesAndTexturesPack и всего остального добавить в файл system/GothicGame.ini (!!!два пробела!!!)
 
 vdf=G2MATP.mod  GothicGame.mod
 
 ### ReShade
 
-> TODO: Добавить файлы и ссылки на них.
+[Скачать](https://github.com/Unicornum/Db.Games/releases/download/Gothic/ReShade_Setup_4.9.1.exe) и установить.
+
+[Использование](Использование.pdf)
+
+- DisplayDepth показывает наличие карт нормалей и глубины - они необходимы для работы многих шейдеров.
+- Многие эффекты уже предоставлены Render DirectX 11, поэтому следует включать только то, чего нет.
+- Для настройки нужен независимый курсор, для этого нажать сначала F1.
+
+![ReShade](ReShade.png)
+
+[Источник](https://reshade.me/)
 
 ### Разное
 
