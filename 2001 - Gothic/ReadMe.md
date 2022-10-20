@@ -1,6 +1,6 @@
 :clipboard: 20.10.2022 Win10 x64
 
-## The Chronicles of Myrtana: Archolos
+## Gothic
 
 :star: :star: :star: :star: :star:
 
