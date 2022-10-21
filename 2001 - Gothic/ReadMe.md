@@ -42,7 +42,9 @@ https://www.gog.com/game/gothic
 
 Для объединения G2MeshesAndTexturesPack и всего остального добавить в файл system/GothicGame.ini (!!!два пробела!!!)
 
+```
 vdf=G2MATP.mod  GothicGame.mod
+```
 
 ### ReShade
 
