@@ -12,7 +12,7 @@ https://www.gog.com/game/rage_of_mages
 
 При проблемах с запуском игры через созданный оригинальным инсталлятором ярлык:
 
-1. Скачать [DxWnd](https://github.com/Unicornum/Db.Games/releases/download/Allods/DxWnd_v2_05_80.rar) и распаковать архив в любое место.
+1. Скачать [DxWnd](https://github.com/Unicornum/Db.Games/releases/download/common/DxWnd_v2_05_80.rar) и распаковать архив в любое место.
 
     - [Сайт утилиты](https://sourceforge.net/projects/dxwnd/)
 
