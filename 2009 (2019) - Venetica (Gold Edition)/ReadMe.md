@@ -34,6 +34,8 @@ https://www.gog.com/ru/game/venetica
 
 Можно отключить постобработку в самой игре и использовать [утилиту](https://github.com/Unicornum/Db.Games/releases/download/common/ReShade_Setup_5.4.2.exe).
 
+> ReShade не видит карты глубин, поэтому не все шейдеры будут работать.
+
 [Установить](https://github.com/Unicornum/Db.Games/releases/download/common/ReShade.pdf) и загрузить [пресет](Venetica.ini).
 
 [Источник](https://reshade.me/)
