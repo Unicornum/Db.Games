@@ -8,6 +8,7 @@
 
 https://www.gog.com/ru/game/venetica
 
+> [!IMPORTANT]
 > Запускать с правами администратора!
 
 ### Русификатор
