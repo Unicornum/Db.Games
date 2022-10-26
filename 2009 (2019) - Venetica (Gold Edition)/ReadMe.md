@@ -12,17 +12,17 @@ https://www.gog.com/ru/game/venetica
 
 ### Русификатор
 
-[Скачать](https://drive.google.com/file/d/1yawLZQV-Ms4QONTGGzCvhiWR1H1G_FqC/view)
+[Скачать](https://drive.google.com/file/d/1yawLZQV-Ms4QONTGGzCvhiWR1H1G_FqC/view) архив и распаковать в папку с игрой.
 
 ### Venetica Mega Texture Mod
 
-[Скачать](https://www.moddb.com/mods/venetica-mega-texturen-mod)
+[Скачать](https://www.moddb.com/mods/venetica-mega-texturen-mod) все архивы и распаковать в папку с игрой.
 
 ### Мод на 4 Гб ОЗУ
 
-Может понадобиться при установке мода Venetica Mega Texture Mod.
+Может понадобиться при использовании Venetica Mega Texture Mod.
 
-[Скачать](https://github.com/Unicornum/Db.Games/releases/download/common/4gb_patch.exe)
+[Скачать](https://github.com/Unicornum/Db.Games/releases/download/common/4gb_patch.exe), запустить, выбрать файл .\bin\release\Venetica.exe.
 
 ### ReShade
 
