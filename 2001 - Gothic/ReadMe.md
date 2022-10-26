@@ -20,7 +20,7 @@ https://www.gog.com/game/gothic
 
 [Скачать](https://github.com/Unicornum/Db.Games/releases/download/Gothic/G1LangPack.Cyrillic.-0.2.exe)
 
-> Установщик позволяет выбрать локализацию, каноничная - от Snowball.
+> Установщик позволяет выбрать одну из двух локализаций, каноничная - от Snowball.
 
 ### Рендеринг с помощью DirectX11
 
