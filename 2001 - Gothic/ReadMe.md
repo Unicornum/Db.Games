@@ -40,10 +40,10 @@ https://www.gog.com/game/gothic
 
 Первые три мода устанавливаются через инсталлятор на немецком — просто нажимайте привычные по расположению клавиши (но проследите, чтобы путь к игре был корректным), файлы .vdf нужно скопировать в папку Gothic\Data.
 
-Для объединения G2MeshesAndTexturesPack и всего остального добавить в файл system/GothicGame.ini (!!!два пробела!!!)
+Для объединения G2MeshesAndTexturesPack и всего остального добавить в файл system/GothicGame.ini
 
 ```
-vdf=G2MATP.mod  GothicGame.mod
+vdf=G2MATP.mod  GothicGame.mod ; **два пробела** между файлами
 ```
 
 ### ReShade
