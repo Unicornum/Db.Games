@@ -22,7 +22,7 @@ https://www.gog.com/game/gothic
 
 > Установщик позволяет выбрать одну из двух локализаций, каноничная - от Snowball.
 
-### Рендеринг с помощью DirectX11
+### Рендеринг с помощью DirectX 11
 
 Скачать [архив](https://github.com/Unicornum/Db.Games/releases/download/Gothic/GD3D11-17.8-dev8.zip), распаковать в папку system игры.
 
@@ -48,9 +48,7 @@ vdf=G2MATP.mod  GothicGame.mod // два пробела между файлам�
 
 ### ReShade
 
-[Скачать](https://github.com/Unicornum/Db.Games/releases/download/common/ReShade_Setup_4.9.1.exe) и установить.
-
-[Использование](https://github.com/Unicornum/Db.Games/releases/download/common/ReShade.pdf)
+[Скачать](https://github.com/Unicornum/Db.Games/releases/download/common/ReShade_Setup_4.9.1.exe), [установить и настроить](https://github.com/Unicornum/Db.Games/releases/download/common/ReShade.pdf).
 
 - DisplayDepth показывает наличие карт нормалей и глубины - они необходимы для работы многих шейдеров.
 - Многие эффекты уже предоставлены Render DirectX 11, поэтому следует включать только то, чего нет.
