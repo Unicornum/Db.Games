@@ -52,7 +52,7 @@ vdf=G2MATP.mod  GothicGame.mod // два пробела между файлам�
 
 - [Textures Patch Freddy](https://github.com/Unicornum/Db.Games/releases/download/Gothic/3.Textures_Patch_Freddy-0.8.exe) — обновленные текстуры на манер Gothic 2.
 - [Worlds Patch Freddy](https://github.com/Unicornum/Db.Games/releases/download/Gothic/4.worlds_patch_freddy-1.01.exe) — исправление ошибок предыдущего мода.
-- 
+
 ### ReShade
 
 [Скачать](https://github.com/Unicornum/Db.Games/releases/download/common/ReShade_Setup_4.9.1.exe), [установить и настроить](https://github.com/Unicornum/Db.Games/releases/download/common/ReShade.pdf).
