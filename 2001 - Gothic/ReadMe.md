@@ -1,4 +1,4 @@
-:clipboard: 20.10.2022 Win10 x64
+:clipboard: 25.02.2023 Win10 x64
 
 ## Gothic
 
@@ -24,9 +24,13 @@ https://www.gog.com/game/gothic
 
 ### Рендеринг с помощью DirectX 11
 
-Скачать [архив](https://github.com/Unicornum/Db.Games/releases/download/Gothic/GD3D11-17.8-dev8.zip), распаковать в папку system игры.
+Скачать [архив](https://github.com/Unicornum/Db.Games/releases/download/Gothic/Gothic1-GD3D11-v17.8-dev9.zip), распаковать в папку system игры.
 
 [Источник](https://github.com/Kirides/GD3D11/releases)
+
+Предыдущие проверенные версии:
+
+- https://github.com/Unicornum/Db.Games/releases/download/Gothic/GD3D11-17.8-dev8.zip
 
 ### Графические моды
 
