@@ -36,6 +36,8 @@ https://www.gog.com/game/gothic
 
 - [G2 Meshes And Textures Pack](https://github.com/Unicornum/Db.Games/releases/download/Gothic/1.G2-Meshes-And-Textures-Pack-v0.2b-Setup.exe) - модели и текстуры из Gothic 2.
 - [Big Nature Mod](https://github.com/Unicornum/Db.Games/releases/download/Gothic/2.Big-nature-mod.exe) — более красивые деревья и значительно больше растительности и других мелких деталей на земле и водоемах.
+- [Textures Patch Freddy](https://github.com/Unicornum/Db.Games/releases/download/Gothic/3.Textures_Patch_Freddy-0.8.exe) — обновленные текстуры на манер Gothic 2.
+- [Worlds Patch Freddy](https://github.com/Unicornum/Db.Games/releases/download/Gothic/4.worlds_patch_freddy-1.01.exe) — исправление ошибок предыдущего мода.
 - [Carnage Graphics Patch](https://github.com/Unicornum/Db.Games/releases/download/Gothic/5.Carnage_Graphics_patch.VDF) — улучшенные модели персонажей и некоторых объектов.
 - [Gothic Weapons Rebuilt](https://github.com/Unicornum/Db.Games/releases/download/Gothic/6.Gothic_Weapons_Rebuilt.VDF) - улучшенные модели оружия.
 - [Potions](https://github.com/Unicornum/Db.Games/releases/download/Gothic/7.Potions.vdf) - модели зелий из второй части.
@@ -47,11 +49,6 @@ https://www.gog.com/game/gothic
 ```
 vdf=G2MATP.mod  GothicGame.mod // два пробела между файлами!
 ```
-
-Устаревшие:
-
-- [Textures Patch Freddy](https://github.com/Unicornum/Db.Games/releases/download/Gothic/3.Textures_Patch_Freddy-0.8.exe) — обновленные текстуры на манер Gothic 2.
-- [Worlds Patch Freddy](https://github.com/Unicornum/Db.Games/releases/download/Gothic/4.worlds_patch_freddy-1.01.exe) — исправление ошибок предыдущего мода.
 
 ### ReShade
 
