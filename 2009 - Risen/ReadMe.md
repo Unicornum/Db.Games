@@ -26,7 +26,7 @@ https://www.gog.com/ru/game/risen
 
 > Файл настроек ConfigUser.xml находится в папке C:\Users\*****\AppData\Local\Risen.
 
-## Widescreen
+#### Widescreen
 
 - В файле ConfigUser.xml установить разрешение экрана
 ```
@@ -50,7 +50,7 @@ https://www.gog.com/ru/game/risen
 >
 ```
 
-## Нормализация громкости звуков и диалогов
+#### Нормализация громкости звуков и диалогов
 
 - Добавить строчку Master="765" в файл ConfigUser.xml
 
@@ -63,7 +63,7 @@ https://www.gog.com/ru/game/risen
 >
 ```
 
-### ⁉️ Remaster
+#### ⁉️ Remaster
 
 > Есть проблема - после обновления игры до x64 мод перестал работать, т.к. был расчитан на x32.
 
