@@ -24,20 +24,43 @@ https://www.gog.com/ru/game/risen
 
 ### Разное
 
-- Файл ConfigUser.xml находится в папке C:\Users\*****\AppData\Local\Risen.
-- Для нормализации громкости звуков и диалогов нужно добавить строчку Master="765" в файл ConfigUser.xml
+> Файл настроек ConfigUser.xml находится в папке C:\Users\*****\AppData\Local\Risen.
+
+## Widescreen
+
+- В файле ConfigUser.xml установить разрешение экрана
 ```
-<Audio
-UseHardwareSounds="true"
+<Window
+ AdapterNumber="0"
+ Bottom="1080"
+ Left="0"
+ RefreshRate="60"
+ Right="2560"
+ Top="0"
+ Vsync="false"
+ FOV="90.000000"
 >
+```
+- В файле ...\Risen\data\ini\ConfigUser.xml заменить значение параметра Aspect16x9 VirtalWidth так, чтобы оно соответствовало эквивалентному соотношению сторон для высоты 768 пикселей, что равно 1820 для монитора с разрешением 2560x1080.
+```
+<Aspect16x9
+  VirtalWidth="1820"
+  VirtalHeight="768"
+  EnableDrawScale="True"
+>
+```
+
+## Нормализация громкости звуков и диалогов
+
+- Добавить строчку Master="765" в файл ConfigUser.xml
+
+```
 <Volume
-Ambient="255"
-Effect="252"
-Master="765"
-Music="203"
+  Ambient="255"
+  Effect="252"
+  Master="765"
+  Music="203"
 >
-</Volume>
-</Audio>
 ```
 
 ### ⁉️ Remaster
