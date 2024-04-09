@@ -22,8 +22,26 @@ https://www.gog.com/ru/game/risen
 
 [Risen.ini](Risen.ini)
 
-### Remaster
+### Разное
 
-⁉️ Есть проблема - после обновления игры до x64 мод перестал работать, т.к. был расчитан на x32.
+- Файл ConfigUser.xml находится в папке C:\Users\*****\AppData\Local\Risen.
+- Для нормализации громкости звуков и диалогов нужно добавить строчку Master="765" в файл ConfigUser.xml
+```
+<Audio
+UseHardwareSounds="true"
+>
+<Volume
+Ambient="255"
+Effect="252"
+Master="765"
+Music="203"
+>
+</Volume>
+</Audio>
+```
+
+### ⁉️ Remaster
+
+> Есть проблема - после обновления игры до x64 мод перестал работать, т.к. был расчитан на x32.
 
 https://www.nexusmods.com/risen/mods/22?tab=description
