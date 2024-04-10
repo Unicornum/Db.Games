@@ -24,11 +24,9 @@ https://www.gog.com/ru/game/risen
 
 ### Разное
 
-> Файл настроек ConfigUser.xml находится в папке C:\Users\*****\AppData\Local\Risen.
-
 #### Widescreen
 
-- В файле ConfigUser.xml установить разрешение экрана
+- В файле **$(localappdata)/Risen/ConfigUser.xml** установить разрешение экрана
 ```
 <Window
  AdapterNumber="0"
@@ -41,7 +39,7 @@ https://www.gog.com/ru/game/risen
  FOV="90.000000"
 >
 ```
-- В файле ...\Risen\data\ini\ConfigUser.xml в разделе Aspect16x9 заменить значение параметра VirtalWidth так, чтобы оно соответствовало эквивалентному соотношению сторон для высоты 768 пикселей, что равно 1820 для монитора с разрешением 2560x1080.
+- В файле **...\Risen\data\ini\ConfigUser.xml** в разделе **Aspect16x9** заменить значение параметра **VirtalWidth** так, чтобы оно соответствовало эквивалентному соотношению сторон для высоты 768 пикселей, что равно 1820 для монитора с разрешением 2560x1080.
 ```
 <Aspect16x9
   VirtalWidth="1820"
@@ -52,7 +50,7 @@ https://www.gog.com/ru/game/risen
 
 #### Нормализация громкости звуков и диалогов
 
-- Добавить строчку Master="765" в файл ConfigUser.xml
+- Добавить строчку Master="765" в файл **$(localappdata)/Risen/ConfigUser.xml**
 
 ```
 <Volume
