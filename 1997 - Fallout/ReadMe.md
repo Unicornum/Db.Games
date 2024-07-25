@@ -20,3 +20,7 @@
 [Источник + описание изменений](http://fforum.kochegarov.com/index.php?showtopic=29288)
 
 [Скачать](https://github.com/Unicornum/Db.Games/releases/download/Fallout/sfall1.7z)
+
+### Хинты
+
+- Навыки, которые можно легко прокачать книжками: наука, ремонт, первая помощь, оружие, скаут.
