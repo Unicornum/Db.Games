@@ -10,8 +10,7 @@
 
 ### Русификатор
 
-[ZoG](https://www.zoneofgames.ru/games/fallout_a_post_nuclear_role_playing_game/files/6750.html)
-
+[ZoG](https://www.zoneofgames.ru/games/fallout_a_post_nuclear_role_playing_game/files/6750.html) или 
 [1C](https://drive.google.com/file/d/1pUDaVd-3Zbo-JHCFNq7iA4bbDoFAE7aD/view)
 
 ### sFall1
