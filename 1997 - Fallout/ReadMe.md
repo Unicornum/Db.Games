@@ -13,9 +13,11 @@
 ### Русификатор
 
 [ZoG](https://www.zoneofgames.ru/games/fallout_a_post_nuclear_role_playing_game/files/6750.html)
+
 [1C](https://drive.google.com/file/d/1pUDaVd-3Zbo-JHCFNq7iA4bbDoFAE7aD/view)
 
 ### sFall1
 
 [Источник + описание изменений](http://fforum.kochegarov.com/index.php?showtopic=29288)
+
 [Скачать](https://github.com/Unicornum/Db.Games/releases/download/Fallout/sfall1.7z)
